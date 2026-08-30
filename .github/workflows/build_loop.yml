@@ -214,7 +214,6 @@ jobs:
           now_line \
           profiles \
           basal_lock \
-          live_activity \
           negative_insulin
       # Patch Fastlane Match to not print tables
       - name: Patch Match Tables
